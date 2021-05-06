@@ -1,16 +1,16 @@
-### Hi there 👋
+# Hi there! I'm Laëtitia & this is my GitHub 😃
 
-<!--
-**ldolne/ldolne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a **Junior Web/Mobile Developer** recently out of a three-month internship and currently looking for a first job.
+I am proficient in both **front- and back-end development** with a preference for **Vue.js/Nuxt.js** and **Node.js** technologies.
 
-Here are some ideas to get you started:
+## 🔭 I’m currently working on:
+- Personal portfolio (with Vue/Nuxt.js technologies)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 I’m currently learning:
+- Deepening my knowledge of **Nuxt.js**, **Express.js** & **RethinkDB** for new work opportunities
+- Sharpening my skills with **C#** and **SQL** for school projects
+
+## 📫 How to reach me:
+- Portfolio: *coming soon*
+- [LinkedIn](https://www.linkedin.com/in/laetitia-dolne/)
+- [Mail](mailto:dolnelaetitia@gmail.com)
