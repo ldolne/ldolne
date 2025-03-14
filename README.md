@@ -1,14 +1,7 @@
-# Hi there! I'm Laëtitia & this is my GitHub 😃
+# Hi there! I'm Laëtitia 😃
 
-I am a **Junior Web/Mobile Developer** recently out of a three-month internship and currently looking for a first job.
-I am proficient in both **front- and back-end development** with a preference for **Vue.js/Nuxt.js** and **Node.js** technologies.
-
-## 🔭 I’m currently working on:
-- Personal portfolio (with Vue/Nuxt.js technologies)
-
-## 🌱 I’m currently learning:
-- Deepening my knowledge of **Nuxt.js**, **Express.js** & **RethinkDB** for new work opportunities
-- Sharpening my skills with **C#** and **SQL** for school projects
+I am a **Web Developer** working at Mega in Liège.
+I am proficient in both **front- and back-end development** with a preference for **Vue.js/Nuxt.js** and **Laravel/Node.js** technologies.
 
 ## 📫 How to reach me:
 - Portfolio: *coming soon*
